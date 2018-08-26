@@ -1,6 +1,0 @@
-test git out
-
-# this is a great file
-# i think it needs a little less, though
-
-here is a new line i am adding
